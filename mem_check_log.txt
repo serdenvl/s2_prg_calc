@@ -1,0 +1,4387 @@
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05D50
+	mem change: +32  (0 -> 32)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +1  (32 -> 33)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05DE0 -> 0x17231F05E00
+	mem change: +7  (33 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05F00
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F60
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05F90
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05F90 -> 0x17231F05FB0
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FD0
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05F90
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05DE0
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05FB0
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F60
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05F00
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05FB0
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05EB0
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05DE0 -> 0x17231F05ED0
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05EF0
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05EB0 -> 0x17231F05F20
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05DE0
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05EF0
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05FB0
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05ED0
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F40
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05F70
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F05FB0
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F05E50
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05EB0
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05EE0
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05EE0 -> 0x17231F05F00
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06130
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05DE0
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06150
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05DE0
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05F00
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05EB0
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F05E50
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06130
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05F70
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F40
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F05FB0
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06210
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05FB0
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F40
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05F70
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F05F70 -> 0x17231F05EB0
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05FB0
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06210
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05F90
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FD0
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05F20
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05DE0
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06150
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05EB0
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F40
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06390
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05F00
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F60
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06940 -> 0x17231F06370
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F90
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06330
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06390
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06370
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F60
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05F00
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06110
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069C0
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06950 -> 0x17231F06960
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069C0 -> 0x17231F06860
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06970
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06110
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06980
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F063B0
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069A0
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069A0 -> 0x17231F069B0
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06350
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F062B0
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069B0
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F063B0
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06350
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06980
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06150
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06900
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068B0
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068B0 -> 0x17231F068D0
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06900
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06150
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06330
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F90
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06860
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F062B0
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068D0
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06230
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05F00
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F60
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +8  (354 -> 362)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06910 -> 0x17231F06070
+	mem change: +8  (362 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F90
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06210
+	mem change: +12  (402 -> 414)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06230
+	mem change: -22  (414 -> 392)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (392 -> 360)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -108  (360 -> 252)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (252 -> 220)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06070
+	mem change: -16  (220 -> 204)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F60
+	mem change: -32  (204 -> 172)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05F00
+	mem change: -88  (172 -> 84)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (84 -> 116)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06050
+	mem change: +12  (116 -> 128)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (128 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +1  (160 -> 161)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (161 -> 193)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068A0
+	mem change: +1  (193 -> 194)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06960 -> 0x17231F06890
+	mem change: +7  (194 -> 201)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (201 -> 233)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06130
+	mem change: +10  (233 -> 243)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068A0 -> 0x17231F06370
+	mem change: +15  (243 -> 258)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06130
+	mem change: -10  (258 -> 248)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (248 -> 216)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06050
+	mem change: -12  (216 -> 204)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (204 -> 172)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06890
+	mem change: -8  (172 -> 164)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (164 -> 132)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (132 -> 164)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06170
+	mem change: +10  (164 -> 174)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06980
+	mem change: +8  (174 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (182 -> 214)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06250
+	mem change: +10  (214 -> 224)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F061D0
+	mem change: +24  (224 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (248 -> 280)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06900
+	mem change: +7  (280 -> 287)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06900 -> 0x17231F06960
+	mem change: +1  (287 -> 288)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F060B0
+	mem change: +16  (288 -> 304)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06250
+	mem change: -10  (304 -> 294)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (294 -> 262)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F062F0
+	mem change: +24  (262 -> 286)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (286 -> 318)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +8  (318 -> 326)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -8  (326 -> 318)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (318 -> 286)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F061D0
+	mem change: -24  (286 -> 262)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F060B0
+	mem change: -16  (262 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06170
+	mem change: -10  (246 -> 236)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (236 -> 204)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06980
+	mem change: -8  (204 -> 196)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06170
+	mem change: +24  (196 -> 220)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (220 -> 252)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +8  (252 -> 260)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (260 -> 292)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06990
+	mem change: +1  (292 -> 293)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06990 -> 0x17231F06950
+	mem change: +7  (293 -> 300)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06950 -> 0x17231F06230
+	mem change: +8  (300 -> 308)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -8  (308 -> 300)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (300 -> 268)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06170
+	mem change: -24  (268 -> 244)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06210
+	mem change: -12  (244 -> 232)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F90
+	mem change: -32  (232 -> 200)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06370
+	mem change: -16  (200 -> 184)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (184 -> 152)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (152 -> 144)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (144 -> 112)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F062F0
+	mem change: -24  (112 -> 88)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06230
+	mem change: -16  (88 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F062D0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05F00
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F60
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06A00
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06A00 -> 0x17231F06390
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05F90
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06250
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F062D0
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06390
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F60
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05F00
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06310
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E50
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069B0
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068E0 -> 0x17231F06940
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069B0 -> 0x17231F069A0
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06970
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06310
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06940
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068B0
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06390
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05E80
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06980 -> 0x17231F06910
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06230
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068B0
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F060F0
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F05FC0
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069B0
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E80
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06390
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06230
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06940
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06150
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AD0
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06910 -> 0x17231F06950
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AD0
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06150
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06250
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05F90
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069A0
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05E50
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069B0
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05FC0
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F060F0
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06230
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DA0
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D10
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069D0
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069D0 -> 0x17231F06290
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CB0
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F061B0
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06230
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DA0
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06290
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D10
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06290
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DA0
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06890
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06970 -> 0x17231F069B0
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06890 -> 0x17231F06940
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06290
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069B0
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B30
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06990
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F069C0
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069B0
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06270
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F06900
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06050
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069B0
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06250
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06880
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06900
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06270
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06050
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B30
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F069C0
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06270
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AA0
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06890
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06890 -> 0x17231F06A00
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06980
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06270
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F061B0
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CB0
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DA0
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06880
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06250
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06A00
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AA0
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06290
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06930
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06930 -> 0x17231F062B0
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D40
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06230
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06290
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F062B0
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06290
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F06940
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068B0
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06910 -> 0x17231F06920
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068B0
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06290
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B30
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068A0
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F068B0
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06880
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06250
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06860
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06860 -> 0x17231F068C0
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F062B0
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06880
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06210
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068C0
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06250
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F062B0
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B30
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F068B0
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06310
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CB0
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06900
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06900 -> 0x17231F06930
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06310
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06230
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D40
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06920
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06210
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06930
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CB0
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B00
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06110
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AA0
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069D0
+	mem change: +4  (354 -> 358)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (358 -> 390)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06920
+	mem change: +8  (390 -> 398)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06110
+	mem change: -22  (398 -> 376)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B00
+	mem change: -32  (376 -> 344)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (344 -> 236)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AA0
+	mem change: -32  (236 -> 204)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069D0
+	mem change: -4  (204 -> 200)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (200 -> 168)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (168 -> 80)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (80 -> 112)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +8  (112 -> 120)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D10
+	mem change: +32  (120 -> 152)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +1  (152 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CB0
+	mem change: +32  (153 -> 185)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +1  (185 -> 186)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06960 -> 0x17231F068A0
+	mem change: +7  (186 -> 193)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (193 -> 225)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06930
+	mem change: +6  (225 -> 231)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06940 -> 0x17231F068B0
+	mem change: +7  (231 -> 238)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06930
+	mem change: -6  (238 -> 232)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (232 -> 200)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06980
+	mem change: -8  (200 -> 192)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (192 -> 160)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -8  (160 -> 152)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D10
+	mem change: -32  (152 -> 120)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (120 -> 152)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06930
+	mem change: +6  (152 -> 158)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F068C0
+	mem change: +8  (158 -> 166)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B30
+	mem change: +32  (166 -> 198)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06890
+	mem change: +6  (198 -> 204)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06070
+	mem change: +24  (204 -> 228)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (228 -> 260)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069E0
+	mem change: +3  (260 -> 263)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069E0 -> 0x17231F06A00
+	mem change: +5  (263 -> 268)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F062F0
+	mem change: +16  (268 -> 284)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06890
+	mem change: -6  (284 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B30
+	mem change: -32  (278 -> 246)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06170
+	mem change: +24  (246 -> 270)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (270 -> 302)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +4  (302 -> 306)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06A00
+	mem change: -8  (306 -> 298)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (298 -> 266)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06070
+	mem change: -24  (266 -> 242)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F062F0
+	mem change: -16  (242 -> 226)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06930
+	mem change: -6  (226 -> 220)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (220 -> 188)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F068C0
+	mem change: -8  (188 -> 180)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06150
+	mem change: +24  (180 -> 204)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (204 -> 236)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06880
+	mem change: +4  (236 -> 240)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (240 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +1  (272 -> 273)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068E0 -> 0x17231F068D0
+	mem change: +7  (273 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06880
+	mem change: -4  (280 -> 276)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (276 -> 244)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06150
+	mem change: -24  (244 -> 220)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06920
+	mem change: -8  (220 -> 212)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (212 -> 180)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068B0
+	mem change: -8  (180 -> 172)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CB0
+	mem change: -32  (172 -> 140)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06980
+	mem change: -4  (140 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06170
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068D0
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CB0
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F062F0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06910
+	mem change: +4  (354 -> 358)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D10
+	mem change: +32  (358 -> 390)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068B0
+	mem change: +8  (390 -> 398)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F062F0
+	mem change: -22  (398 -> 376)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CB0
+	mem change: -32  (376 -> 344)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (344 -> 236)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (236 -> 204)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -4  (204 -> 200)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (200 -> 168)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (168 -> 80)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BF0
+	mem change: +32  (80 -> 112)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +8  (112 -> 120)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (120 -> 152)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068C0
+	mem change: +1  (152 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (153 -> 185)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +1  (185 -> 186)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068C0 -> 0x17231F06990
+	mem change: +7  (186 -> 193)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DA0
+	mem change: +32  (193 -> 225)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068C0
+	mem change: +6  (225 -> 231)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068E0 -> 0x17231F068A0
+	mem change: +7  (231 -> 238)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068C0
+	mem change: -6  (238 -> 232)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DA0
+	mem change: -32  (232 -> 200)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (200 -> 192)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BF0
+	mem change: -32  (192 -> 160)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -8  (160 -> 152)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (152 -> 120)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (120 -> 152)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +6  (152 -> 158)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06860
+	mem change: +8  (158 -> 166)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B00
+	mem change: +32  (166 -> 198)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06990
+	mem change: +6  (198 -> 204)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F061F0
+	mem change: +24  (204 -> 228)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (228 -> 260)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +3  (260 -> 263)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F06950
+	mem change: +5  (263 -> 268)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06130
+	mem change: +16  (268 -> 284)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -6  (284 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B00
+	mem change: -32  (278 -> 246)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06210
+	mem change: +24  (246 -> 270)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (270 -> 302)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06930
+	mem change: +4  (302 -> 306)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -8  (306 -> 298)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (298 -> 266)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F061F0
+	mem change: -24  (266 -> 242)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06130
+	mem change: -16  (242 -> 226)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -6  (226 -> 220)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (220 -> 188)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06860
+	mem change: -8  (188 -> 180)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F061F0
+	mem change: +24  (180 -> 204)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (204 -> 236)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06870
+	mem change: +4  (236 -> 240)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (240 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +1  (272 -> 273)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068E0 -> 0x17231F06910
+	mem change: +7  (273 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06870
+	mem change: -4  (280 -> 276)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (276 -> 244)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F061F0
+	mem change: -24  (244 -> 220)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068B0
+	mem change: -8  (220 -> 212)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D10
+	mem change: -32  (212 -> 180)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -8  (180 -> 172)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (172 -> 140)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06930
+	mem change: -4  (140 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06210
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F063B0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AA0
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068D0
+	mem change: +3  (354 -> 357)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (357 -> 389)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +7  (389 -> 396)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F063B0
+	mem change: -22  (396 -> 374)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (374 -> 342)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (342 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068D0
+	mem change: -3  (202 -> 199)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AA0
+	mem change: -32  (199 -> 167)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (167 -> 79)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (79 -> 111)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068A0
+	mem change: +7  (111 -> 118)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (118 -> 150)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06930
+	mem change: +1  (150 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B00
+	mem change: +32  (151 -> 183)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +1  (183 -> 184)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06930 -> 0x17231F06900
+	mem change: +7  (184 -> 191)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DA0
+	mem change: +32  (191 -> 223)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06860
+	mem change: +5  (223 -> 228)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F06940
+	mem change: +7  (228 -> 235)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06860
+	mem change: -5  (235 -> 230)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DA0
+	mem change: -32  (230 -> 198)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -7  (198 -> 191)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (191 -> 159)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06900
+	mem change: -8  (159 -> 151)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (151 -> 119)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AA0
+	mem change: +32  (119 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068A0
+	mem change: +5  (151 -> 156)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F069E0
+	mem change: +8  (156 -> 164)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (164 -> 196)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06990
+	mem change: +5  (196 -> 201)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06070
+	mem change: +24  (201 -> 225)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (225 -> 257)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +2  (257 -> 259)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06980 -> 0x17231F069A0
+	mem change: +6  (259 -> 265)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06270
+	mem change: +16  (265 -> 281)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -5  (281 -> 276)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (276 -> 244)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F061B0
+	mem change: +24  (244 -> 268)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (268 -> 300)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06890
+	mem change: +3  (300 -> 303)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069A0
+	mem change: -8  (303 -> 295)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (295 -> 263)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06070
+	mem change: -24  (263 -> 239)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06270
+	mem change: -16  (239 -> 223)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -5  (223 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AA0
+	mem change: -32  (218 -> 186)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F069E0
+	mem change: -8  (186 -> 178)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06250
+	mem change: +24  (178 -> 202)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (202 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +3  (234 -> 237)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D40
+	mem change: +32  (237 -> 269)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +1  (269 -> 270)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F06910
+	mem change: +7  (270 -> 277)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -3  (277 -> 274)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (274 -> 242)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06250
+	mem change: -24  (242 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -7  (218 -> 211)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (211 -> 179)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -8  (179 -> 171)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B00
+	mem change: -32  (171 -> 139)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06890
+	mem change: -3  (139 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F061B0
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D40
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F062F0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06880
+	mem change: +5  (354 -> 359)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06880 -> 0x17231F06090
+	mem change: +11  (359 -> 370)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (370 -> 402)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06390
+	mem change: +9  (402 -> 411)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F062F0
+	mem change: -22  (411 -> 389)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (389 -> 357)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (357 -> 249)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (249 -> 217)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06090
+	mem change: -16  (217 -> 201)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (201 -> 169)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (169 -> 81)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AD0
+	mem change: +32  (81 -> 113)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06310
+	mem change: +9  (113 -> 122)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (122 -> 154)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06870
+	mem change: +1  (154 -> 155)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D40
+	mem change: +32  (155 -> 187)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +1  (187 -> 188)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06870 -> 0x17231F068E0
+	mem change: +7  (188 -> 195)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (195 -> 227)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06900
+	mem change: +7  (227 -> 234)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06970 -> 0x17231F06960
+	mem change: +7  (234 -> 241)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06900
+	mem change: -7  (241 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06310
+	mem change: -9  (202 -> 193)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AD0
+	mem change: -32  (193 -> 161)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -8  (161 -> 153)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (153 -> 121)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (121 -> 153)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06980
+	mem change: +7  (153 -> 160)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06910
+	mem change: +8  (160 -> 168)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (168 -> 200)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069D0
+	mem change: +7  (200 -> 207)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F060F0
+	mem change: +24  (207 -> 231)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (231 -> 263)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +4  (263 -> 267)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068E0 -> 0x17231F06990
+	mem change: +4  (267 -> 271)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F063B0
+	mem change: +16  (271 -> 287)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069D0
+	mem change: -7  (287 -> 280)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (280 -> 248)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F060D0
+	mem change: +24  (248 -> 272)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B30
+	mem change: +32  (272 -> 304)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06A00
+	mem change: +5  (304 -> 309)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -8  (309 -> 301)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (301 -> 269)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F060F0
+	mem change: -24  (269 -> 245)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F063B0
+	mem change: -16  (245 -> 229)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06980
+	mem change: -7  (229 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (222 -> 190)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06910
+	mem change: -8  (190 -> 182)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06370
+	mem change: +24  (182 -> 206)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AA0
+	mem change: +32  (206 -> 238)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068D0
+	mem change: +5  (238 -> 243)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CB0
+	mem change: +32  (243 -> 275)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +1  (275 -> 276)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06950 -> 0x17231F06970
+	mem change: +7  (276 -> 283)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068D0
+	mem change: -5  (283 -> 278)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AA0
+	mem change: -32  (278 -> 246)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06370
+	mem change: -24  (246 -> 222)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06390
+	mem change: -9  (222 -> 213)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (213 -> 181)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06960
+	mem change: -8  (181 -> 173)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D40
+	mem change: -32  (173 -> 141)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06A00
+	mem change: -5  (141 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B30
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F060D0
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06970
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CB0
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F062B0
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06870
+	mem change: +3  (354 -> 357)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (357 -> 389)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +7  (389 -> 396)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F062B0
+	mem change: -22  (396 -> 374)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (374 -> 342)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (342 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06870
+	mem change: -3  (202 -> 199)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (199 -> 167)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (167 -> 79)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06AD0
+	mem change: +32  (79 -> 111)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069B0
+	mem change: +7  (111 -> 118)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (118 -> 150)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +1  (150 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (151 -> 183)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069D0
+	mem change: +1  (183 -> 184)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F068F0 -> 0x17231F068A0
+	mem change: +7  (184 -> 191)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B00
+	mem change: +32  (191 -> 223)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06990
+	mem change: +5  (223 -> 228)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F069D0 -> 0x17231F068F0
+	mem change: +7  (228 -> 235)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06990
+	mem change: -5  (235 -> 230)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B00
+	mem change: -32  (230 -> 198)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069B0
+	mem change: -7  (198 -> 191)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06AD0
+	mem change: -32  (191 -> 159)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -8  (159 -> 151)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (151 -> 119)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C80
+	mem change: +32  (119 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +5  (151 -> 156)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F06940
+	mem change: +8  (156 -> 164)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B00
+	mem change: +32  (164 -> 196)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F069D0
+	mem change: +5  (196 -> 201)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06210
+	mem change: +24  (201 -> 225)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B30
+	mem change: +32  (225 -> 257)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06900
+	mem change: +2  (257 -> 259)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06900 -> 0x17231F06910
+	mem change: +6  (259 -> 265)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F06370
+	mem change: +16  (265 -> 281)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069D0
+	mem change: -5  (281 -> 276)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B00
+	mem change: -32  (276 -> 244)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06230
+	mem change: +24  (244 -> 268)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (268 -> 300)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068A0
+	mem change: +3  (300 -> 303)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06910
+	mem change: -8  (303 -> 295)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B30
+	mem change: -32  (295 -> 263)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06210
+	mem change: -24  (263 -> 239)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F06370
+	mem change: -16  (239 -> 223)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06970
+	mem change: -5  (223 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C80
+	mem change: -32  (218 -> 186)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F06940
+	mem change: -8  (186 -> 178)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06110
+	mem change: +24  (178 -> 202)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (202 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06A00
+	mem change: +3  (234 -> 237)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (237 -> 269)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +1  (269 -> 270)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06950 -> 0x17231F06980
+	mem change: +7  (270 -> 277)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06A00
+	mem change: -3  (277 -> 274)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (274 -> 242)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06110
+	mem change: -24  (242 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -7  (218 -> 211)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (211 -> 179)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068F0
+	mem change: -8  (179 -> 171)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (171 -> 139)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068A0
+	mem change: -3  (139 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06230
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06980
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (72 -> 40)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06DD0
+	mem change: +32  (40 -> 72)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06110
+	mem change: +22  (72 -> 94)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (94 -> 126)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F05E20
+	mem change: +108  (126 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 31 (new__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: +88  (234 -> 322)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (322 -> 354)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068E0
+	mem change: +3  (354 -> 357)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D70
+	mem change: +32  (357 -> 389)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F068F0
+	mem change: +7  (389 -> 396)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06110
+	mem change: -22  (396 -> 374)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06DD0
+	mem change: -32  (374 -> 342)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E20
+	mem change: -108  (342 -> 234)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (234 -> 202)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068E0
+	mem change: -3  (202 -> 199)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (199 -> 167)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\prehandlers.h at line 49 (free__hanstate)
+	mem info: 0x17231F05EA0
+	mem change: -88  (167 -> 79)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C20
+	mem change: +32  (79 -> 111)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06880
+	mem change: +7  (111 -> 118)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06CE0
+	mem change: +32  (118 -> 150)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +1  (150 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D10
+	mem change: +32  (151 -> 183)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06890
+	mem change: +1  (183 -> 184)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06960 -> 0x17231F06930
+	mem change: +7  (184 -> 191)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06D40
+	mem change: +32  (191 -> 223)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +5  (223 -> 228)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06890 -> 0x17231F069D0
+	mem change: +7  (228 -> 235)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -5  (235 -> 230)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D40
+	mem change: -32  (230 -> 198)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06880
+	mem change: -7  (198 -> 191)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C20
+	mem change: -32  (191 -> 159)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06930
+	mem change: -8  (159 -> 151)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06CE0
+	mem change: -32  (151 -> 119)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (119 -> 151)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06870
+	mem change: +5  (151 -> 156)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 55 (new__numstack)
+	mem info: 0x17231F068D0
+	mem change: +8  (156 -> 164)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B60
+	mem change: +32  (164 -> 196)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +5  (196 -> 201)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 68 (from_format_str__num)
+	mem info: 0x17231F06290
+	mem change: +24  (201 -> 225)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06B90
+	mem change: +32  (225 -> 257)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06970
+	mem change: +2  (257 -> 259)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06970 -> 0x17231F069F0
+	mem change: +6  (259 -> 265)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 21 (new__numstackel)
+	mem info: 0x17231F060B0
+	mem change: +16  (265 -> 281)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -5  (281 -> 276)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B60
+	mem change: -32  (276 -> 244)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06170
+	mem change: +24  (244 -> 268)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06BC0
+	mem change: +32  (268 -> 300)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06940
+	mem change: +3  (300 -> 303)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069F0
+	mem change: -8  (303 -> 295)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06B90
+	mem change: -32  (295 -> 263)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06290
+	mem change: -24  (263 -> 239)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 43 (free__numstackel)
+	mem info: 0x17231F060B0
+	mem change: -16  (239 -> 223)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06870
+	mem change: -5  (223 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (218 -> 186)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_number_stack.h at line 67 (free__numstack)
+	mem info: 0x17231F068D0
+	mem change: -8  (186 -> 178)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 21 (clone__num)
+	mem info: 0x17231F06130
+	mem change: +24  (178 -> 202)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06C50
+	mem change: +32  (202 -> 234)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06950
+	mem change: +3  (234 -> 237)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 41 (clone__str)
+	mem info: 0x17231F06A70
+	mem change: +32  (237 -> 269)
+
+!malloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 44 (clone__str)
+	mem info: 0x17231F06960
+	mem change: +1  (269 -> 270)
+
+!realloc!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 79 (_resize__str)
+	mem info: 0x17231F06960 -> 0x17231F068C0
+	mem change: +7  (270 -> 277)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06950
+	mem change: -3  (277 -> 274)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06C50
+	mem change: -32  (274 -> 242)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06130
+	mem change: -24  (242 -> 218)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068F0
+	mem change: -7  (218 -> 211)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D70
+	mem change: -32  (211 -> 179)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F069D0
+	mem change: -8  (179 -> 171)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06D10
+	mem change: -32  (171 -> 139)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F06940
+	mem change: -3  (139 -> 136)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06BC0
+	mem change: -32  (136 -> 104)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/number.h at line 52 (free__num)
+	mem info: 0x17231F06170
+	mem change: -24  (104 -> 80)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F068C0
+	mem change: -8  (80 -> 72)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F06A70
+	mem change: -32  (72 -> 40)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 64 (free__str)
+	mem info: 0x17231F05E00
+	mem change: -8  (40 -> 32)
+
+!free!
+	info: C:\dev\s2_prg_calc\src\utils/dynamic_string.h at line 65 (free__str)
+	mem info: 0x17231F05D50
+	mem change: -32  (32 -> 0)
+
+Память успешно очищена.

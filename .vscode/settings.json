@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.h": "c",
+        "typeinfo": "c",
+        "functional": "c",
+        "random": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "limits": "c",
+        "numeric": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "bit": "c",
+        "cstdlib": "c",
+        "string": "c",
+        "exception": "c",
+        "memory_resource": "c",
+        "new": "c",
+        "string_view": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
